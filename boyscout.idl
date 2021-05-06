@@ -1,0 +1,29 @@
+// boyscout.idl : type library source for boyscout.exe
+
+// This file will be processed by the MIDL compiler to produce the
+// type library (boyscout.tlb).
+
+[ uuid(0919C4FF-F79A-4AE9-988A-A35C7C56070A), version(1.0) ]
+library boyscout
+{
+	importlib("stdole32.tlb");
+	importlib("stdole2.tlb");
+
+	//  Primary dispatch interface for CboyscoutDoc
+	
+	[ uuid(C7A71A4F-2333-40AA-B4FA-90FA9ED8427A) ]
+	dispinterface Iboyscout
+	{
+		properties:
+			
+		methods:
+	};
+
+	//  Class information for CboyscoutDoc
+	
+	[ uuid(36808C2E-C2C1-451D-A28B-A62CFCB5A245) ]
+	coclass boyscout
+	{
+		[default] dispinterface Iboyscout;
+	};
+};

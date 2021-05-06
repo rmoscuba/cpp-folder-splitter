@@ -1,0 +1,473 @@
+
+FTPTREE Sample: Displays the Structure and Content of an FTP Site
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/vcsample/html/_sample_mfc_FTPTREE.htm
+
+CInternetSession Class
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/vclib/html/_mfc_cinternetsession.htm
+
+Ver para implementar Folder TreeView
+D:\Usuarios\rortega\prog\temp\samples\ShellControls\
+
+Ver para invert selection
+D:\Usuarios\rortega\prog\temp\samples\MultiFiler_demo\CView with drop target
+
+Ver para aplicar skin a ListView
+D:\Usuarios\rortega\prog\temp\samples\SkinListDone\
+
+Getting Hardware Information
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/sysinfo/base/getting_hardware_information.htm
+
+Rebar Controls
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/shellcc/platform/commctls/rebar/rebar.htm
+
+Creating an Internet Explorer-style Menu Bar
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/shellcc/platform/commctls/faq/iemenubar.htm
+
+CFrameWnd::FloatControlBar
+
+"Typically, this is done at application startup when the program is restoring settings from the previous execution."
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/vclib/html/_mfc_cframewnd.3a3a.floatcontrolbar.htm
+
+Handling Customization Notifications
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/vccore/html/vcconHandling_Customization_Notifications.htm
+
+Detecting and Isolating Memory Leaks Using Microsoft Visual C++
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/dnvc60/html/memleaks.htm
+
+Using Resources
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/winui/winui/windowsuserinterface/resources/introductiontoresources/usingresources.htm
+
+Shell Functions
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/shellcc/platform/shell/reference/functions/functions.htm
+
+FOLDERSETTINGS Structure
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/shellcc/platform/shell/reference/structures/foldersettings.htm
+
+Obtaining Directory Change Notifications
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/fileio/base/obtaining_directory_change_notifications.htm
+
+Creating a Shell Namespace Extension
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/shellcc/platform/shell/programmersguide/shell_adv/namespaceextension/namespace.htm
+
+Displaying a Self-Contained View of a Namespace Extension
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/shellcc/platform/shell/programmersguide/shell_adv/namespaceextension/nse_view.htm
+
+DAD_SetDragImage Function (Not available after Xp). You should use ImageList_BeginDrag instead.
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/shellcc/platform/shell/reference/functions/dad_setdragimage.htm
+
+Ver definiciones y comentarios fichero "shlobj.h"
+
+Transferring Shell Objects with Drag-and-Drop and the Clipboard
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/shellcc/platform/shell/programmersguide/shell_basics/shell_basics_programming/transferring/transfer.htm
+
+Operating System Classes
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/wmisdk/wmi/operating_system_classes.htm#_hmm_com
+
+Displaying a Self-Contained View of a Namespace Extension
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/shellcc/platform/shell/programmersguide/shell_adv/namespaceextension/nse_view.htm
+
+Using AutoComplete
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/shellcc/platform/shell/programmersguide/shell_int/shell_int_programming/ac_ovw.htm
+
+Getting a Folder's ID
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/shellcc/platform/shell/programmersguide/shell_basics/shell_basics_programming/folder_id.htm#csidls
+
+SHParseDisplayName
+
+ILCombine
+
+ILCreateFromPathW 
+
+ILAppendID
+
+IInsertItem Interface
+
+ILFindLastID 
+
+ILRemoveLastID 
+
+ILGetNext 
+
+DLGCBR32 Sample: Demonstrates Adding a Status Bar and Toolbar to Dialog Boxes (AFX_IDW_CONTROLBAR_FIRST)
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/vcsample/html/_sample_mfc_DLGCBR32.htm
+
+PathParseIconLocation Function
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/shellcc/platform/shell/reference/shlwapi/path/pathparseiconlocation.htm
+
+Working with Item ID Lists
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/shellcc/platform/shell/programmersguide/shell_adv/pidl_ovw.htm#pidl_copy
+
+Añadir editor de permisos NT. Posibilidad de Seleccionar varios objetos y editar sólo los premisos comunes, al estilo del editor de propiedades de delphi.
+
+Getting System Information
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/sysinfo/base/getting_system_information.htm
+
+How to Log Off the Current User
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/sysinfo/base/how_to_log_off_the_current_user.htm
+
+Creating Icon Handlers
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/shellcc/platform/shell/programmersguide/shell_int/shell_int_extending/extensionhandlers/iconhandlers.htm
+
+Using Windows XP Visual Styles
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/shellcc/platform/commctls/userex/cookbook.htm
+
+IShellIconOverlay Interface
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/shellcc/platform/shell/reference/ifaces/ishelliconoverlay/ishelliconoverlay.htm
+
+From CPP to COM
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/dncomg/html/msdn_cpptocom.htm#abstract
+
+OLE for Idiots: C Is for Container
+
+"virtual function pointers used in C++ objects"
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/dnolegen/html/msdn_ole2c.htm
+
+The Shell Drag/Drop Helper Object Part 2: IDropSourceHelper
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/dnwui/html/ddhelp_pt2.htm
+
+Getting Ready for 64-bit Windows
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/win64/win64/getting_ready_for_64_bit_windows.htm
+
+*Handling Shell Data Transfer Scenarios
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/shellcc/platform/shell/programmersguide/shell_basics/shell_basics_programming/transferring/datascenarios.htm
+
+Transferring Shell Objects with Drag-and-Drop and the Clipboard
+
+"The drag-and-drop data object is responsible for tracking cursor movement and displaying an icon to represent the data object."
+
+"The drop target must expose an IDropTarget interface. When the cursor is over a target window, the system uses IDropTarget to provide the target with information such as the cursor position, and to notify it when the data is dropped."
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/shellcc/platform/shell/programmersguide/shell_basics/shell_basics_programming/transferring/transfer.htm
+
+WM_DROPFILES Message
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/shellcc/platform/shell/reference/messages/wm_dropfiles.htm
+
+Drag and Drop: Implementing a Drop Target
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/vccore/html/_core_Drag_and_Drop.3a_.Implementing_a_Drop_Target.htm
+
+reinterpret_cast Operator
+
+"One practical use of reinterpret_cast is in a hash function, which maps a value to an index in such a way that two distinct values rarely end up with the same index."
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/vclang/html/_pluslang_reinterpret_cast_Operator.htm
+
+"Do scroll when mouse points inside rect boders area."
+
+Process and Thread Functions
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/dllproc/base/process_and_thread_functions.htm
+
+Creating a Child Process with Redirected Input and Output
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/dllproc/base/creating_a_child_process_with_redirected_input_and_output.htm
+
+Managing the File System
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/shellcc/platform/shell/programmersguide/shell_basics/shell_basics_programming/manage.htm
+
+Implementing a Folder View
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/shellcc/platform/shell/programmersguide/shell_adv/namespaceextension/nse_folderview.htm
+
+Shell Basics
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/shellcc/platform/shell/programmersguide/shell_basics/shell_basics.htm
+
+Standard Shell Interfaces
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/shellcc/platform/shell/programmersguide/shell_int/shell_int_programming/std_ifaces.htm
+
+IShellDetails Interface
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/shellcc/platform/shell/reference/ifaces/ishelldetails/ishelldetails.htm
+
+IExtractImage Interface
+
+"Use IExtractImage if you are implementing a view of namespace objects, and want to display thumbnail images..."
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/shellcc/platform/shell/reference/ifaces/iextractimage/iextractimage.htm
+
+Creating Shell Extension Handlers
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/shellcc/platform/shell/programmersguide/shell_int/shell_int_extending/extensionhandlers/shell_ext.htm
+
+Icons
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/winui/winui/windowsuserinterface/resources/icons.htm
+
+Security:
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/dncode/html/secure10102002.htm
+
+CSplitterWnd::CreateStatic
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/vclib/html/_mfc_CSplitterWnd.3a3a.CreateStatic.htm
+
+Tree-View Controls
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/shellcc/platform/commctls/treeview/treeview.htm
+
+FTP Sessions
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/WinInet/wininet/ftp_sessions.htm
+
+Run-Time Routines and .NET Framework Equivalents
+
+Run-Time Routines and .NET Framework Equivalents
+
+Obtaining Directory Change Notifications
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/fileio/base/obtaining_directory_change_notifications.htm
+
+Managing the File System
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/shellcc/platform/shell/programmersguide/shell_basics/shell_basics_programming/manage.htm
+
+----------------------------------
+
+Make a class:
+
+Files (Copy and move files), List file and folders. 
+
+SplitFolder derived from Files (Split a folder in smaller pieces)
+
+----------------------------------
+
+BY_HANDLE_FILE_INFORMATION
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/fileio/base/by_handle_file_information_str.htm
+
+GetFileInformationByHandle
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/fileio/base/getfileinformationbyhandle.htm
+
+----------------------------------
+
+include <shlobj.h>
+#include <shlwapi.h>
+
+int main(void)
+{
+    IShellFolder *psfDeskTop = NULL;
+    IShellFolder *psfDocFiles = NULL;
+    IMalloc *pMalloc = NULL;
+    LPITEMIDLIST pidlDocFiles = NULL;
+    LPITEMIDLIST pidlItems = NULL;
+    IEnumIDList *ppenum = NULL;
+    SHFILEOPSTRUCT sfo;
+    STRRET strDispName;
+    TCHAR szParseName[MAX_PATH];
+    TCHAR szSourceFiles[256];
+    int i;
+    int iBufPos = 0;
+    ULONG chEaten;
+    ULONG celtFetched;
+    size_t ParseNameSize = 0;
+    HRESULT hr;
+	
+
+    pzSourceFiles[0] = '\0';
+    hr = SHGetMalloc(&pMalloc);
+    hr = SHGetDesktopFolder(&psfDeskTop);
+
+    hr = psfDeskTop->ParseDisplayName(NULL, NULL, L"c:\\My_Docs", 
+         &chEaten, &pidlDocFiles, NULL);
+    hr = psfDeskTop->BindToObject(pidlDocFiles, NULL, IID_IShellFolder, 
+         (LPVOID *) &psfDocFiles);
+    hr = psfDeskTop->Release();
+
+    hr = psfDocFiles->EnumObjects(NULL,SHCONTF_FOLDERS | SHCONTF_NONFOLDERS, 
+         &ppenum);
+
+    while( (hr = ppenum->Next(1,&pidlItems, &celtFetched)) == S_OK 
+       && (celtFetched) == 1)
+    {
+        psfDocFiles->GetDisplayNameOf(pidlItems, SHGDN_FORPARSING, 
+            &strDispName);
+        StrRetToBuf(&strDispName, pidlItems, szParseName, MAX_PATH);
+		
+        hr = StringCchLength(szParseName, MAX_PATH, &ParseNameSize);
+		
+        if (SUCCEEDED(hr))
+        {
+            for(i=0; i<=ParseNameSize, i++)
+            {
+                szSourceFiles[iBufPos++] = szParseName[i];
+            }
+            pMalloc->Free(pidlItems);
+        }
+    }
+    ppenum->Release();
+	
+    szSourceFiles[iBufPos] = '\0';
+
+    sfo.hwnd = NULL;
+    sfo.wFunc = FO_COPY;
+    sfo.pFrom = szSourceFiles;
+    sfo.pTo = "c:\\My_Docs2\0";
+    sfo.fFlags = FOF_SILENT | FOF_NOCONFIRMATION | FOF_NOCONFIRMMKDIR;
+
+    hr = SHFileOperation(&sfo);
+	
+    SHChangeNotify(SHCNE_UPDATEDIR, SHCNF_PATH, (LPCVOID) "c:\My_Docs2", 0);
+
+    pMalloc->Free(pidlDocFiles);
+    pMalloc->Release();
+    psfDocFiles->Release();
+
+    return 0;
+}
+
+----------------------------------
+
+
+Directory Control
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/vclib/html/_crt_directory_control.htm
+
+CString csText;
+csText.Format(_T("Test data #%d in table %d, row 0!"), m_nCount,
+(int) m_nTable);
+
+ATL and MFC String Conversion Macros
+
+ms-help://MS.VSCC.2003/MS.MSDNQTR.2003APR.1033/vclib/html/_atl_String_Conversion_Macros.htm
+
+---------------------------------------
+
+// crt_fsopen.c
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <share.h>
+
+int main( void )
+{
+   FILE *stream;
+
+   /* Open output file for writing. Using _fsopen allows us to
+    * ensure that no one else writes to the file while we are
+    * writing to it.
+    */
+   if( (stream = _fsopen( "outfile", "wt", _SH_DENYWR )) != NULL )
+   {
+      fprintf( stream, "No one else in the network can write "
+                       "to this file until we are done.\n" );
+      fclose( stream );
+   }
+   /* Now others can write to the file while we read it. */
+   system( "type outfile" );
+}
+
+-----------------------------
+
+
+// crt_fread.c
+/* This program opens a file named FREAD.OUT and
+ * writes 25 characters to the file. It then tries to open
+ * FREAD.OUT and read in 25 characters. If the attempt succeeds,
+ * the program displays the number of actual items read.
+ */
+
+#include <stdio.h>
+
+int main( void )
+{
+   FILE *stream;
+   char list[30];
+   int  i, numread, numwritten;
+
+   /* Open file in text mode: */
+   if( (stream = fopen( "fread.out", "w+t" )) != NULL )
+   {
+      for ( i = 0; i < 25; i++ )
+         list[i] = (char)('z' - i);
+      /* Write 25 characters to stream */
+      numwritten = fwrite( list, sizeof( char ), 25, stream );
+      printf( "Wrote %d items\n", numwritten );
+      fclose( stream );
+
+   }
+   else
+      printf( "Problem opening the file\n" );
+
+   if( (stream = fopen( "fread.out", "r+t" )) != NULL )
+   {
+      /* Attempt to read in 25 characters */
+      numread = fread( list, sizeof( char ), 25, stream );
+      printf( "Number of items read = %d\n", numread );
+      printf( "Contents of buffer = %.25s\n", list );
+      fclose( stream );
+   }
+   else
+      printf( "File could not be opened\n" );
+}
+
+--------------------------
+
+// crt_setvbuf.c
+/* This program opens two streams: stream1
+ * and stream2. It then uses setvbuf to give stream1 a
+ * user-defined buffer of 1024 bytes and stream2 no buffer.
+ */
+
+#include <stdio.h>
+
+int main( void )
+{
+   char buf[1024];
+   FILE *stream1, *stream2;
+
+   if( ((stream1 = fopen( "data1", "a" )) != NULL) &&
+       ((stream2 = fopen( "data2", "w" )) != NULL) )
+   {
+      if( setvbuf( stream1, buf, _IOFBF, sizeof( buf ) ) != 0 )
+         printf( "Incorrect type or size of buffer for stream1\n" );
+      else
+         printf( "'stream1' now has a buffer of 1024 bytes\n" );
+      if( setvbuf( stream2, NULL, _IONBF, 0 ) != 0 )
+         printf( "Incorrect type or size of buffer for stream2\n" );
+      else
+         printf( "'stream2' now has no buffer\n" );
+      _fcloseall();
+   }
+}
+
+-------------------------------
+
+

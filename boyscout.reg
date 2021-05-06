@@ -1,0 +1,14 @@
+REGEDIT
+; This .REG file may be used by your SETUP program.
+;   If a SETUP program is not available, the entries below will be
+;   registered in your InitInstance automatically with a call to
+;   CWinApp::RegisterShellFileTypes and COleObjectFactory::UpdateRegistryAll.
+
+HKEY_CLASSES_ROOT\boyscout.Application = boyscout Application
+HKEY_CLASSES_ROOT\boyscout.Application\CLSID = {36808C2E-C2C1-451D-A28B-A62CFCB5A245}
+
+HKEY_CLASSES_ROOT\CLSID\{36808C2E-C2C1-451D-A28B-A62CFCB5A245} = boyscout Application
+HKEY_CLASSES_ROOT\CLSID\{36808C2E-C2C1-451D-A28B-A62CFCB5A245}\ProgId = boyscout.Application
+
+
+HKEY_CLASSES_ROOT\CLSID\{36808C2E-C2C1-451D-A28B-A62CFCB5A245}\LocalServer32 = boyscout.EXE

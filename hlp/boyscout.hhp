@@ -1,0 +1,27 @@
+[OPTIONS]
+Auto Index=Yes
+Compatibility=1.1 or later
+Compiled file=boyscout.chm
+Contents file=boyscout.hhc
+Index file=boyscout.hhk
+Default topic=BoyScoutAbout.htm
+Display compile progress=No
+Full-text search=Yes
+Language=0x0409 English (United States)
+
+
+[FILES]
+BoyScoutAbout.htm
+BoyScoutFAQs.htm
+BoyScoutLicense.htm
+
+[ALIAS]
+HIDD_BOYSCOUT_DIALOG = BoyScoutAbout.htm
+
+[MAP]
+#include HTMLDefines.h
+
+[TEXT POPUPS]
+HTMLDefines.h
+
+[INFOTYPES]
